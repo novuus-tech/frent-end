@@ -36,7 +36,7 @@ function redirectToLogin() {
 
 export const instanceHttp = axios.create({
   // baseURL: "http://192.168.100.50:5000/api",
-  baseURL:"https://linkuup-back-end.vercel.app/",
+  baseURL:"https://linkuup-back-end.vercel.app/api",
   headers: {
     "Content-Type": "application/json",
   },
