@@ -6,12 +6,14 @@ const SalesRepresentativeSelect = ({ register }) => {
   const salesRepresentatives = [
     "Annabelle Rodriguez",
     "Aurore Diallo",
+    "Alassane Laye",
     "Benoît Chamboissier",
     "Fatima Jabri",
     "Freddy Tamboers",
     "Helene Jehamo",
     "Julien Hendrickx",
     "Julien Camilleri",
+    "Justine Dallas",
     "Julien Morel",
     "Loris Miran",
     "Karine Nobile",
@@ -27,6 +29,7 @@ const SalesRepresentativeSelect = ({ register }) => {
     "Sophie Rousmans",
     "Théo Raymond",
     "Vincen Le Mauff",
+    "Yann Sieciechowicz",
   ];
 
   return (
