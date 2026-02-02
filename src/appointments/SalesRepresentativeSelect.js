@@ -8,6 +8,8 @@ const SalesRepresentativeSelect = ({ register }) => {
     "Aurore Diallo",
     "Alassane Laye",
     "Benoît Chamboissier",
+    "Didier Richard",
+    "Emmanuel Domi",
     "Fatima Jabri",
     "Freddy Tamboers",
     "Helene Jehamo",
