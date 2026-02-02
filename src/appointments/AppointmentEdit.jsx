@@ -157,10 +157,14 @@ const AppointmentEdit = () => {
               >
                 <option value="">Select Sales Representative</option>
                 <option value="annabelle-rodriguez">Annabelle Rodriguez</option>
+                <option value="alassane-laye">Alassane Laye</option>
                 <option value="benoit-chamboissier">Benoît Chamboissier</option>
+                <option value="didier-richard">Didier Richard</option>
+                <option value="emmanuel-domi">Emmanuel Domi</option>
                 <option value="fatima-Jabri">Fatima Jabri</option>
                 <option value="freddy-tamboers">Freddy Tamboers</option>
                 <option value="julien-camilleri">Julien Camilleri</option>
+                <option value="justine-dallas">Justine Dallas</option>
                 <option value="julien-morel">Julien Morel</option>
                 <option value="karine-nobile">Kanime Nobile</option>
                 <option value="helene-jehamo">Helene Jehamo</option>
@@ -179,6 +183,7 @@ const AppointmentEdit = () => {
                 <option value="sophie-rousmans">Sophie Rousmans</option>
                 <option value="sylvie-delon">Sylvie Delon</option>
                 <option value="sophie-portal">Sophie Portal</option>
+                <option value="yann-sieciechowicz">Yann Sieciechowicz</option>
 
               </select>
             </div>
